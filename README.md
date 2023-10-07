@@ -11,7 +11,7 @@
 | Python | None|
 | MagicSpells | Minecrfat :: MagicSpells Plugins |
 
-## 🎮 Most Languages
+## 🎮｜Most Languages
 
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winping&langs_count=4&layout=compact&theme=dark)](https://github.com/winping/_01_Test)
 
