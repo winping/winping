@@ -1,3 +1,11 @@
+##  💻｜Know
+| **언어** | **관련 내용** |
+| ------ | -- | -- |----------- |
+| Skript | Minecrfat :: Sk plugin|
+| Java | Minecrfat :: Plugins |
+| Python | None|
+| MagicSpells | Minecrfat :: MagicSpells Plugins |
+
 - 👋 Hi, I’m @winping
 - 👀 I’m interested in minecraft
 - 🌱 I’m currently learning minecraft skript, Java
