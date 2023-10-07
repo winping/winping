@@ -4,7 +4,7 @@
 > ID: winping_ , winping0627@gmail.com
 ##  💻｜Know
 
-| Week | 세미나 |
+| Lang | Game |
 | ------ | ----------- |
 | Skript | Minecrfat :: Sk plugin|
 | Java | Minecrfat :: Plugins |
