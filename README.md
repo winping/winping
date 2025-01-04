@@ -8,8 +8,12 @@
 | ------ | ----------- |
 | Skript | Minecrfat :: Sk plugin|
 | Java | Minecrfat :: Plugins |
-| Python | None|
 | MagicSpells | Minecrfat :: MagicSpells Plugins |
+
+| Lang | Skilled |
+| ------ | ----------- |
+| Python | Grammar |
+
 
 ## 🎮｜Most Languages
 
